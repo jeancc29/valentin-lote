@@ -43,7 +43,7 @@
   } */
 
 
-
+/* Segunda prueba para darle scroll vertical solamente al body de la tabla */
   .table-fixed thead,
 .table-fixed tfoot{
   width: 97%;
@@ -73,6 +73,8 @@
 
 
 
+
+/* El codigo de la plantilla css comienza aqui */
 
 
  dl,
